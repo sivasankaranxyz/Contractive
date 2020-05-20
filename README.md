@@ -7,5 +7,5 @@ Team RYZAP
 Team members: 
 Sivasankaran T: https://github.com/sivasankaranoffl
 Bharath Waj: https://github.com/bharathwaj07
-Keerthivasan:https://github.com/
+Keerthivasan:https://github.com/Hunterkeerthi
 
