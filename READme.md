@@ -24,8 +24,8 @@ npm run electron:serve
 vue add electron-builder
 ```
 
-![appstore](https://user-images.githubusercontent.com/4316355/48569610-354ed300-e8d0-11e8-8fde-e1d5631528dd.png)
-
+<!-- ![appstore](https://user-images.githubusercontent.com/4316355/48569610-354ed300-e8d0-11e8-8fde-e1d5631528dd.png)
+-->
 ttt
 # Git Commands:
 (open powershell)
