@@ -30,6 +30,8 @@ ttt
 # Git Commands:
 (open powershell)
 cd Contractive
+git clone https://github.com/sivasankaranoffl/contractive.git
+git init
 git config --global user.email "emailid@gmail.com"
 git config --global user.name "Sivasankaran T"
 git remote add origin https://github.com/sivasankaranoffl/contractive.git
