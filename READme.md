@@ -4,7 +4,7 @@ This is the project for we did for ETHIndia Online: Chain Runner Hackathon.
 
 # Team RYZAP
 # Team members: 
-Sivasankaran T: https://github.com/sivasankaranoffl
+Sivasankaran T: https://github.com/sivasankaranxyz
 Bharath Waj: https://github.com/bharathwaj07
 Keerthivasan:https://github.com/Hunterkeerthi
 
@@ -30,12 +30,12 @@ ttt
 # Git Commands:
 (open powershell)
 cd Contractive
-git clone https://github.com/sivasankaranoffl/contractive.git
+git clone https://github.com/sivasankaranxyz/contractive.git
 git init
-git config --global user.email "emailid@gmail.com"
+git config --global user.email "emailid@github"
 git config --global user.name "Sivasankaran T"
-git remote add origin https://github.com/sivasankaranoffl/contractive.git
+git remote add origin https://github.com/sivasankaranxyz/contractive.git
 git add .
 git pull
-git commit -m "second commit zenfull.app setup"
+git commit -m "second commit setup"
 git push -u origin master
