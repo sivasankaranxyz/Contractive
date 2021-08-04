@@ -2,7 +2,6 @@
 Hello world!
 This is the project for we did for ETHIndia Online: Chain Runner Hackathon.
 
-# Team RYZAP
 # Team members: 
 Sivasankaran T: https://github.com/sivasankaranxyz
 Bharath Waj: https://github.com/bharathwaj07
