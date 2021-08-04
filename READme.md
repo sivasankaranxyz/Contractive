@@ -1,6 +1,5 @@
 # Contractive (Chain-Runner-Hackathon-2020)
-Hello world!
-This is the project for we did for ETHIndia Online: Chain Runner Hackathon.
+Hello world! This is the project for we did for ETHIndia Online: Chain Runner Hackathon.
 
 # Team members: 
 Sivasankaran T: https://github.com/sivasankaranxyz
